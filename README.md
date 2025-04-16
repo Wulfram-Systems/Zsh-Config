@@ -1,3 +1,10 @@
+AUTOMATICALLY 
+bash <(curl -s https://raw.githubusercontent.com/Wulfram-Systems/Wulfram-Systems/main/install_zsh_env.sh)
+
+
+
+
+MANUALLY
 make sure to  nano the zschr
 
 
